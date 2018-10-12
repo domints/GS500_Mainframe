@@ -1,0 +1,10 @@
+#ifndef __MAINFRAME_ADDRESSES_H__
+#define __MAINFRAME_ADDRESSES_H__
+
+#define ADDR_MAINFRAME 0x00
+#define ADDR_LCD 0x01
+#define ADDR_IGNITION 0x02
+#define ADDR_FUEL 0x03
+#define ADDR_WHEELCTRL 0x04
+
+#endif //__MAINFRAME_ADDRESSES_H__
